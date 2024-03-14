@@ -33,8 +33,8 @@ else:
 #)
 
 # Initialize clients based on provided session strings
-for i, session in enumerate(SESSIONS, 1):
+for i, session in enumerate(SESSIONS):
     if session:
         print(f"Client{i}: Found.. Starting.. 📳")
-        client = Client(f"client #{i}", api_id=API_ID, api_hash=API_HASH, session_string=str(session.strip()), plugins=dict(root="STORM"))
+        client = Client(name=f"client{i}", api_id=API_ID, api_hash=API_HASH, session_string=str(session.strip()), plugins=dict(root="STORM.modules"))
         clients.append(client)
