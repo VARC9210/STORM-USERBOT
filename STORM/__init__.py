@@ -36,5 +36,5 @@ else:
 for i, session in enumerate(SESSIONS):
     if session:
         print(f"Client{i}: Found.. Starting.. 📳")
-        client = Client(name=f"client{i}", api_id=API_ID, api_hash=API_HASH, session_string=str(session.strip()), plugins=dict(root="modules"))
+        client = Client(name=f"client{i}", api_id=API_ID, api_hash=API_HASH, session_string=str(session.strip()), plugins=dict(root="STORM.modules"))
         clients.append(client)
