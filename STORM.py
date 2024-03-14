@@ -23,7 +23,7 @@ if __name__ == "__main__":
             CLIENT.start()
             CLIENT.join_chat("Third_DegreeTG")
             print(f"---> {i+1} Clients has been Started...")
-            print(f"Started {cli.me.first_name} 🔥")
+            print(f"Started {CLIENT.me.first_name} 🔥")
         except Exception as e:
             print(e)
             print("Exiting the Program.")
