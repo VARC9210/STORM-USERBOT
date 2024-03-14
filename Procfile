@@ -1,1 +1,1 @@
-worker: python3 -m STORM
+worker: python3 STORM.py
