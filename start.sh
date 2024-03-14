@@ -1,1 +1,2 @@
-python3 -m STORM
+python3 STORM.py
+
