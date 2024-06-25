@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 𝒌𝒂𝒏𝒉𝒂 🥀」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="https://graph.org/file/dc415607712c2ce5b37be.jpg">
+  <img src="Image URL: https://mallucampaign.in/images/img_1715403259.jpg">
 </p>
 
 <p align="center">
